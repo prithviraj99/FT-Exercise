@@ -9,7 +9,7 @@
   "author": "prithviraj99",
   "license": "ISC",
   "dependencies": {
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.2"
   },
   "devDependencies": {
     "chai": "^4.3.4",
